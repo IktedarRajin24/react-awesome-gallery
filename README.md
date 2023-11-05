@@ -1,8 +1,12 @@
-# React + Vite
+# React Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Gallery Layout:**
+   - Implemented a grid layout for the image gallery.
+   - The gallery displays images with one feature image larger than the others.
+2. **Deleting Multiple Images:**
+   - Users can select multiple images and delete them.
+   - A clear visual indication of selected images.
+3. **Setting Feature Image:**
+   - Users to set a feature image by sorting.
+4. **Live Demo:**
+   https://654799cc5f288e469c05de49--storied-rolypoly-152ba4.netlify.app/
